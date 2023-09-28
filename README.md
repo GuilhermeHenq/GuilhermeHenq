@@ -39,9 +39,9 @@ object **Guilherme** {
 
 [website]: https://guilhermehenq.github.io/guilherme-henrique/
 [twitter]: https://twitter.com/GuilhermeHeP
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/](https://www.youtube.com/channel/UCOeIRmrzkSBpyBcl85yq7IA
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/](https://www.instagram.com/guihenq/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/guilherme-henrique-066a81242/
+[youtube]: https://www.youtube.com/channel/UCOeIRmrzkSBpyBcl85yq7IA
+[instagram]: https://www.instagram.com/guihenq/
+[linkedin]: https://www.linkedin.com/in/guilherme-henrique-066a81242
 
 <br>
 
