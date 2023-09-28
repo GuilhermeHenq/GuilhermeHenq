@@ -1,6 +1,6 @@
 # Opa salve 👋
 
-Gosto de bastante das areas de desing e front-end!
+Gosto de bastante das areas de desing e front-end
 
 ## Mais sobre mim
 
@@ -19,7 +19,6 @@ object **Guilherme** {
 
 ## Linguagens e ferramentas
 <code><img height="30" src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></code>
-<code><img height="30" src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react"></code>
 <code><img height="30" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -40,9 +39,9 @@ object **Guilherme** {
 
 [website]: https://guilhermehenq.github.io/guilherme-henrique/
 [twitter]: https://twitter.com/GuilhermeHeP
-[youtube]: [https://www.youtube.com/user/SEUYOUTUBE/](https://www.youtube.com/channel/UCOeIRmrzkSBpyBcl85yq7IA)
-[instagram]: [https://www.instagram.com/SEUINSTAGRAM/](https://www.instagram.com/guihenq/)
-[linkedin]: [https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/guilherme-henrique-066a81242/)
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/](https://www.youtube.com/channel/UCOeIRmrzkSBpyBcl85yq7IA
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/](https://www.instagram.com/guihenq/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/guilherme-henrique-066a81242/
 
 <br>
 
