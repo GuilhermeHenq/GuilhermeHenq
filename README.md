@@ -47,6 +47,6 @@ object **Guilherme** {
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-henrique-066a81242)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:guilherme.serafini@sou.unifal-mg.edu.br)
+[![Linkedin](https://img.shields.io/badge/-GuilhermeHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-henrique-066a81242)
+[![Gmail Badge](https://img.shields.io/badge/-guilherme.serafini@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:guilherme.serafini@sou.unifal-mg.edu.br)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GuilhermeHenq)
